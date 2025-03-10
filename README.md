@@ -33,15 +33,6 @@
 </a>
 </p>
 
----
-
-<h3 align="left">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadfarhanwebdeveloper&show_icons=true&theme=radical" alt="muhammadfarhanwebdeveloper stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadfarhanwebdeveloper&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
