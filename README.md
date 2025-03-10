@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=4BF798&center=true&width=435&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+learning+something+new!" alt="Typing SVG" />
 </p>
 
-- 🌱 I’m currently learning **React Native**
+
 
 - 👨‍💻 All of my projects are available at [https://hafiz-muhammad-farhan.vercel.app](https://hafiz-muhammad-farhan.vercel.app)
 
